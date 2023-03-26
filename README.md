@@ -6,7 +6,13 @@ This is a cinema reservation system for HUCS (Hacettepe University Computer Scie
 
 ## How to Run
 
-go to the project directory and run the following command:
+First, you need to clone the project to your local machine.
+
+```bash
+git clone https://github.com/tanercelikkiran/hucs-cinema-reservation-system.git
+```
+
+Then, go to the project directory and run the following command:
 
 ```bash
 javac *.java
